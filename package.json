@@ -1,0 +1,28 @@
+{
+  "name": "@ionchi/redis-session-checker",
+  "version": "2.0.0",
+  "description": "Frontend redis session checker",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionchi/redis-session-checker.git"
+  },
+  "keywords": [
+    "redis",
+    "session"
+  ],
+  "author": "Ion Chiriac <ion.chiriac@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ionchi/redis-session-checker/issues"
+  },
+  "homepage": "https://github.com/ionchi/redis-session-checker#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "nodejs-base64": "^1.0.3",
+    "redis": "^2.8.0"
+  }
+}
