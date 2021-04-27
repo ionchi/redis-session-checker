@@ -23,6 +23,6 @@
   "dependencies": {
     "bluebird": "^3.5.5",
     "nodejs-base64": "^1.0.3",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
